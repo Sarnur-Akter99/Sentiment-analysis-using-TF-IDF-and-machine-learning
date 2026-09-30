@@ -1,0 +1,101 @@
+Review_ID,Customer_Name,Product,Review_Text,Rating,Sentiment,Date
+1,Rahim,Mobile Phone,The product has some good features.,3,Neutral,2025-07-11
+2,Mim,Headphone,The product stopped working quickly.,1,Negative,2025-10-25
+3,Rahim,Laptop,Great product at a reasonable price.,5,Positive,2025-07-12
+4,Fahim,Laptop,I am not satisfied with this product.,2,Negative,2025-02-05
+5,Karim,Camera,Very bad experience.,1,Negative,2025-07-27
+6,Jannat,Laptop,I hate this product.,1,Negative,2025-07-19
+7,Tanvir,Smart Watch,The service was normal.,3,Neutral,2025-04-25
+8,Rahim,Headphone,Very good quality and fast delivery.,5,Positive,2025-08-24
+9,Sakib,Laptop,The service is available every day.,3,Neutral,2025-08-01
+10,Fahim,Laptop,The product comes with a warranty.,3,Neutral,2025-06-09
+11,Rafi,Headphone,The product comes with a warranty.,3,Neutral,2025-02-02
+12,Fahim,Smart Watch,The service is available every day.,3,Neutral,2025-03-17
+13,Mim,Mobile Phone,I am very happy with my purchase.,4,Positive,2025-05-07
+14,Mim,Laptop,The service was excellent.,5,Positive,2025-01-11
+15,Rahim,Smart Watch,The product works perfectly.,5,Positive,2025-07-21
+16,Sadia,Camera,Great product at a reasonable price.,4,Positive,2025-02-18
+17,Jannat,Laptop,The product quality is excellent.,5,Positive,2025-01-26
+18,Nusrat,Laptop,The service was normal.,3,Neutral,2025-01-14
+19,Karim,Headphone,"Excellent experience, I will buy again.",4,Positive,2025-10-21
+20,Nusrat,Mobile Phone,"Excellent experience, I will buy again.",4,Positive,2025-07-05
+21,Karim,Smart Watch,The service is available every day.,3,Neutral,2025-10-28
+22,Mim,Mobile Phone,The product comes with a warranty.,3,Neutral,2025-10-11
+23,Fahim,Smart Watch,I am satisfied with this product.,4,Positive,2025-12-16
+24,Fahim,Headphone,Amazing product and great service.,4,Positive,2025-03-14
+25,Jannat,Smart Watch,Very good quality and fast delivery.,5,Positive,2025-01-30
+26,Rafi,Headphone,The product works perfectly.,5,Positive,2025-02-22
+27,Tanvir,Mobile Phone,Amazing product and great service.,4,Positive,2025-02-08
+28,Mim,Laptop,Very bad experience.,2,Negative,2025-08-27
+29,Rafi,Mobile Phone,I am very happy with my purchase.,5,Positive,2025-07-16
+30,Jannat,Mobile Phone,The product was damaged.,2,Negative,2025-08-18
+31,Rafi,Laptop,The product has some good features.,3,Neutral,2025-07-19
+32,Karim,Camera,The delivery was very late.,2,Negative,2025-07-30
+33,Jannat,Camera,The product comes with a warranty.,3,Neutral,2025-04-07
+34,Sakib,Headphone,I bought this product last week.,3,Neutral,2025-08-12
+35,Rahim,Smart Watch,The product comes with a warranty.,3,Neutral,2025-02-14
+36,Nusrat,Laptop,The product comes with a warranty.,3,Neutral,2025-09-06
+37,Rahim,Headphone,The product quality is very poor.,2,Negative,2025-03-30
+38,Sakib,Camera,The service was excellent.,4,Positive,2025-03-17
+39,Sadia,Smart Watch,I received the package yesterday.,3,Neutral,2025-03-17
+40,Nusrat,Mobile Phone,I bought this product last week.,3,Neutral,2025-04-16
+41,Sadia,Laptop,Amazing product and great service.,5,Positive,2025-02-26
+42,Sadia,Camera,The service was normal.,3,Neutral,2025-03-24
+43,Karim,Camera,The product is okay.,3,Neutral,2025-04-23
+44,Karim,Headphone,Very bad experience.,2,Negative,2025-05-20
+45,Sakib,Mobile Phone,The service was normal.,3,Neutral,2025-06-04
+46,Rahim,Laptop,The delivery took three days.,3,Neutral,2025-11-16
+47,Rahim,Laptop,The product is okay.,3,Neutral,2025-06-04
+48,Rafi,Smart Watch,The delivery took three days.,3,Neutral,2025-07-14
+49,Sakib,Smart Watch,Amazing product and great service.,5,Positive,2025-10-30
+50,Karim,Headphone,Very bad experience.,1,Negative,2025-06-19
+51,Fahim,Laptop,The product quality is excellent.,4,Positive,2025-03-27
+52,Sadia,Laptop,I am not satisfied with this product.,1,Negative,2025-02-18
+53,Mim,Laptop,Amazing product and great service.,5,Positive,2025-11-09
+54,Sakib,Camera,The service is available every day.,3,Neutral,2025-07-12
+55,Tanvir,Smart Watch,I am disappointed with my purchase.,2,Negative,2025-04-26
+56,Mim,Camera,I am disappointed with my purchase.,2,Negative,2025-10-20
+57,Fahim,Laptop,The product comes with a warranty.,3,Neutral,2025-08-12
+58,Rafi,Camera,The product is available in different colors.,3,Neutral,2025-01-04
+59,Sakib,Laptop,Amazing product and great service.,5,Positive,2025-03-21
+60,Karim,Headphone,The product comes with a warranty.,3,Neutral,2025-04-28
+61,Sakib,Smart Watch,The product was damaged.,1,Negative,2025-10-28
+62,Mim,Camera,I received the package yesterday.,3,Neutral,2025-10-03
+63,Nusrat,Mobile Phone,Very good quality and fast delivery.,4,Positive,2025-01-14
+64,Fahim,Smart Watch,I bought this product last week.,3,Neutral,2025-08-07
+65,Nusrat,Smart Watch,I am disappointed with my purchase.,2,Negative,2025-05-17
+66,Jannat,Camera,I am disappointed with my purchase.,1,Negative,2025-10-04
+67,Nusrat,Mobile Phone,I am very happy with my purchase.,4,Positive,2025-09-22
+68,Fahim,Smart Watch,The product is available in different colors.,3,Neutral,2025-07-31
+69,Tanvir,Laptop,I bought this product last week.,3,Neutral,2025-12-03
+70,Nusrat,Laptop,Very bad experience.,1,Negative,2025-02-25
+71,Nusrat,Smart Watch,The product was damaged.,1,Negative,2025-02-28
+72,Rahim,Laptop,The product is available in different colors.,3,Neutral,2025-03-18
+73,Mim,Laptop,I received the package yesterday.,3,Neutral,2025-03-04
+74,Sakib,Smart Watch,Amazing product and great service.,4,Positive,2025-01-09
+75,Rafi,Headphone,The service is available every day.,3,Neutral,2025-12-31
+76,Tanvir,Camera,Great product at a reasonable price.,4,Positive,2025-06-16
+77,Tanvir,Headphone,I am satisfied with this product.,5,Positive,2025-11-14
+78,Sadia,Smart Watch,The product works perfectly.,4,Positive,2025-03-24
+79,Rahim,Smart Watch,The service was excellent.,4,Positive,2025-10-09
+80,Mim,Smart Watch,I am not satisfied with this product.,2,Negative,2025-02-11
+81,Tanvir,Laptop,I am disappointed with my purchase.,2,Negative,2025-08-23
+82,Tanvir,Smart Watch,I really love this product.,5,Positive,2025-08-30
+83,Jannat,Mobile Phone,The product arrived today.,3,Neutral,2025-06-15
+84,Karim,Headphone,Amazing product and great service.,5,Positive,2025-08-08
+85,Fahim,Headphone,The product quality is very poor.,2,Negative,2025-07-27
+86,Rahim,Camera,The product quality is very poor.,2,Negative,2025-10-09
+87,Tanvir,Laptop,The product comes with a warranty.,3,Neutral,2025-05-18
+88,Tanvir,Camera,The product works perfectly.,4,Positive,2025-03-24
+89,Rahim,Mobile Phone,The product arrived today.,3,Neutral,2025-09-02
+90,Mim,Mobile Phone,Amazing product and great service.,5,Positive,2025-12-21
+91,Tanvir,Camera,The product was damaged.,2,Negative,2025-04-12
+92,Rafi,Camera,I am satisfied with this product.,4,Positive,2025-07-10
+93,Rahim,Laptop,The price is too high for this quality.,1,Negative,2025-10-30
+94,Sadia,Mobile Phone,The product quality is excellent.,5,Positive,2025-01-18
+95,Rahim,Headphone,I am satisfied with this product.,4,Positive,2025-05-18
+96,Mim,Headphone,The product works perfectly.,5,Positive,2025-01-14
+97,Rahim,Camera,The product quality is very poor.,2,Negative,2025-07-21
+98,Fahim,Laptop,I am disappointed with my purchase.,1,Negative,2025-07-24
+99,Rafi,Headphone,The product stopped working quickly.,1,Negative,2025-05-11
+100,Jannat,Laptop,The product quality is excellent.,5,Positive,2025-12-11
